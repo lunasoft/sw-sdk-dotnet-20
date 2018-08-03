@@ -1,8 +1,0 @@
-C:\Users\SMARTERWEB\Documents\Visual Studio 2008\Projects\SW.SDK.20\UT_SWSDK20\bin\Debug\UT_SWSDK20.pdb
-C:\Users\SMARTERWEB\Documents\Visual Studio 2008\Projects\SW.SDK.20\UT_SWSDK20\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\SMARTERWEB\Documents\Visual Studio 2008\Projects\SW.SDK.20\UT_SWSDK20\obj\Debug\UT_SWSDK20.dll
-C:\Users\SMARTERWEB\Documents\Visual Studio 2008\Projects\SW.SDK.20\UT_SWSDK20\obj\Debug\UT_SWSDK20.pdb
-C:\Users\SMARTERWEB\Documents\Visual Studio 2008\Projects\SW.SDK.20\UT_SWSDK20\bin\Debug\UT_SWSDK20.dll
-C:\Users\SMARTERWEB\Documents\Visual Studio 2008\Projects\SW.SDK.20\UT_SWSDK20\bin\Debug\Newtonsoft.Json.dll
-C:\Users\SMARTERWEB\Documents\Visual Studio 2008\Projects\SW.SDK.20\UT_SWSDK20\bin\Debug\SW.SDK.20.pdb
-C:\Users\SMARTERWEB\Documents\Visual Studio 2008\Projects\SW.SDK.20\UT_SWSDK20\bin\Debug\SW.SDK.20.dll
